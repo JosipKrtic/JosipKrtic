@@ -1,7 +1,6 @@
-<!--![MasterHead](https://png.pngtree.com/thumb_back/fh260/background/20210716/pngtree-big-data-light-effect-technology-background-image_744270.jpg)-->
 <h1 align="center">Hi 👋, I'm Josip Krtic</h1>
 <h3 align="center">A Game Development programmer from Croatia</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josipkrtic&label=Profile%20views&color=0e75b6&style=flat" alt="josipkrtic" /> </p>
 
