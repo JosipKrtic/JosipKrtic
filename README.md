@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Individual Game Development Projects**
 
-- 🌱 I’m currently learning **Unity, Unreal Engine 5, JavaFX**
+- 🌱 I’m currently learning **Unreal Engine 5 and Game Development**
 
 - 💬 Ask me about **Java | Video games**
 
